@@ -48,16 +48,22 @@ I’m a passionate software engineer currently studying computer science. With a
 
 ---
 
-<a href="https://github.com/hsandhu01/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hsandhu01" />
-</a>
-<a href="https://github.com/hsandhu01/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsandhu01&layout=compact&langs_count=8&card_width=320" />
-</a>
+<p align="center">
+  <a href="https://github.com/hsandhu01/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=hsandhu01" />
+  </a>
+  <a href="https://github.com/hsandhu01/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=hsandhu01&layout=compact&langs_count=8&card_width=320" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height=200 src="https://streak-stats.demolab.com/?user=hsandhu01" />
+  </a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=hsandhu01&color=green)
-
-
-
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=hsandhu01&color=green">
+    <img src="https://komarev.com/ghpvc/?username=hsandhu01&color=green" alt="Profile Views" height=30 />
+  </a>
+</p>
 
 ⭐️ From [Hsandhu01](https://github.com/hsandhu01)
