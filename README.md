@@ -3,7 +3,7 @@
 I’m a passionate software engineer currently studying computer science. With a knack for full-stack development, cybersecurity, and whitehat hacking, I thrive at the intersection of technology and innovation. I believe in the power of code to transform ideas into reality, and I’m always eager to explore new technologies and improve my skills.
 
 ### 🌟 About Me:
-- 🎓 Currently studying Computer Science.
+- 🎓 Software Engineer, currently studying Computer Science.
 - 💻 Full-stack developer with experience in Java, Perl, Python, and more.
 - 🔐 Cybersecurity enthusiast and whitehat hacker.
 - ☁️ Experienced with AWS and cloud technologies.
