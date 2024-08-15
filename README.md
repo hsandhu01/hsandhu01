@@ -47,8 +47,11 @@ I’m a passionate software engineer currently studying computer science. With a
 </p>
 
 ---
-
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsandhu01" alt="hsandhu01" /></a> 
+</p>
 <p align="center">
+  
   <a href="https://github.com/hsandhu01/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=hsandhu01" />
   </a>
@@ -59,9 +62,7 @@ I’m a passionate software engineer currently studying computer science. With a
     <img height=200 src="https://streak-stats.demolab.com/?user=hsandhu01" />
   </a>
 </p>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsandhu01" alt="hsandhu01" /></a> 
-</p>
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=hsandhu01&color=green">
     <img src="https://komarev.com/ghpvc/?username=hsandhu01&color=green" alt="Profile Views" height=30 />
