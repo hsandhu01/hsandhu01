@@ -24,7 +24,6 @@ I’m a passionate software engineer currently studying computer science. With a
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.perl.org/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a>
