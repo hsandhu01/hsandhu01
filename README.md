@@ -24,12 +24,12 @@ I’m a passionate software engineer currently studying computer science. With a
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <a href="https://www.perl.org/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="ruby" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
